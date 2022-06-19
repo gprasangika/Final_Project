@@ -2,7 +2,6 @@ import streamlit as st
 import pickle
 import numpy as np
 import pandas as pd
-import sklearn
 
 #defining methods to load pipelines
 def load_model1():
